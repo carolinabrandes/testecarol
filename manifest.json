@@ -63,11 +63,11 @@
     "vtex.condition-layout": "2.x",
     "vtex.css-handles": "1.x",
     "vtex.order-manager": "0.x",
-    "vtex.store": "2.x",
-    "assurant.insurances-my-account": "1.x"
+    "vtex.store": "2.x"
   },
   "peerDependencies": {
-    "assurant.insurances-my-account": "1.x"
+    "assurant.insurances-my-account": "1.x",
+    "vtex.reviews-and-ratings": "2.x"
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }
