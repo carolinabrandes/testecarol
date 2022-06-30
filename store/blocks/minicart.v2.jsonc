@@ -31,7 +31,7 @@
   },
   // remover bloco "summary-totalizers#minicart",
   "checkout-summary.compact#minicart": {
-    "children": ["assurant.insurances-my-account@1.x:summary-insurance"],
+    "children": ["summary-insurance"],
     "props": {
       "totalizersToShow": ["Items", "Discounts", "CustomTax", "Shipping"]
     }

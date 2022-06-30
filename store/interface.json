@@ -1,0 +1,7 @@
+{
+  "summary-insurance": {
+    "component": "Summary",
+    "composition": "children",
+    "render": "client"
+  }
+}
